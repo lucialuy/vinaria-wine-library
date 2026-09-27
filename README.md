@@ -2,6 +2,12 @@
 
 一个沉浸式红酒学习与私人品鉴记录网站。以“酒宫藏书阁”为视觉概念，把产区、年份、葡萄品种、单宁、酸度、酒体、香气、适饮期与餐酒搭配整理成可探索的馆藏卡片。
 
+**永久网站：** https://lucialuy.github.io/
+
+**源码仓库：** https://github.com/lucialuy/vinaria-wine-library
+
+**发布仓库：** https://github.com/lucialuy/lucialuy.github.io
+
 ## 核心体验
 
 - 12 款示例名酒与年份学习档案
